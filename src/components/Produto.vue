@@ -1,7 +1,7 @@
 <template>
   <div>
     <h3></h3>
-    <h2>Meu produto</h2>
+    <h2>Meu Primeiro componente</h2>
     <p>Bla bla bla</p>
     <input type="text" placeholder="Preço">
   </div>
